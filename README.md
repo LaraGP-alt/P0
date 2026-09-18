@@ -2,4 +2,4 @@
 Hello World!
 p1 
 
-[P1](https://laragp-alt.github.io/P0/)
+[P1](https://laragp-alt.github.io/P1/)
